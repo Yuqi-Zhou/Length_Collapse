@@ -21,6 +21,8 @@ The implementation for ICLR 2025 Submission: Length-Induced Embedding Collapse i
 python src/test.py --model ${model} --task ${task} --batch_size ${batch_size} --temperature ${temperature}
 ```
 
+For example, you can set the "task=mteb/nfcorpus" to finish the retrieval task on NFCorpus dataset. All the datasets used in this paper can be found at https://huggingface.co/datasets/mteb. 
+
 ## Dependencies
 
 This repository has the following dependency in requirements.txt.
