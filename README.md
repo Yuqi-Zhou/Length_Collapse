@@ -1,5 +1,5 @@
 # Length Collapse
-The implementation for ICLR 2025 Submission: Length-Induced Embedding Collapse in Transformer-based Models.
+The implementation for ACL ARR 2025 February Submission: Length-Induced Embedding Collapse in PLM-based Models.
 
 ## Quick Start
 
