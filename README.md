@@ -1,5 +1,5 @@
 # Length Collapse
-The implementation for ACL ARR 2025 February Submission: Length-Induced Embedding Collapse in PLM-based Models.
+The implementation for ACL 2025: Length-Induced Embedding Collapse in PLM-based Models.
 
 ## Quick Start
 
@@ -40,3 +40,15 @@ torch==2.3.0
 
 The required packages can be installed via `pip install -r requirements.txt`.
 
+## Citation
+
+If you find our code or work useful for your research, please cite our work.
+
+```
+@article{zhou2025length,
+  title={Length-Induced Embedding Collapse in PLM-based Models},
+  author={Zhou, Yuqi and Dai, Sunhao and Cao, Zhanshao and Zhang, Xiao and Xu, Jun},
+  journal={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
+  year={2025}
+}
+```
